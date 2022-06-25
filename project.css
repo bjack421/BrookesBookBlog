@@ -1,0 +1,95 @@
+
+h1{color:rgb(220, 69, 160);}
+h1 {font-family: 'Courier New', Courier, monospace; font-size: 60px;}
+h1{border: 5px rgb(220, 69, 160) dotted;}
+h1{padding: 10px;}
+h1{text-align:center;}
+
+body {
+  background-color: #DBF9FC;
+}
+h2 {font-family: 'Courier New', Courier, monospace;
+  color: rgb(220, 69, 160);
+  font-size: 45px;
+  text-align: center;
+}
+
+h3 {font-family: 'Courier New', Courier, monospace;
+  color: grey;
+  font-size: 26px;
+  text-align: center;
+}
+
+h4 {font-family: 'Courier New', Courier, monospace;
+  color: grey;
+  text-align: center;
+}
+
+ body {
+   margin: 0;
+   font-family: 'Courier New', Courier, monospace;
+   color: grey;
+   font-size: 20px;
+   
+ }
+ 
+ .topnav {
+   overflow: hidden;
+   background-color: rgb(220, 69, 160);
+ }
+ 
+ .topnav a {
+   float: left;
+   color:whitesmoke;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 20px;
+ }
+ 
+ .topnav a:hover {
+   background-color:lightpink;
+   color: grey;
+ }
+ 
+ .topnav a.active {
+   background-color:rgb(220, 69, 160;
+   color: white;
+ }
+
+ .column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+<style>
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #eee;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: rgb(220, 69, 160);
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: grey;
+  text-decoration: underline;
+}
+</style>
+
+ </style>

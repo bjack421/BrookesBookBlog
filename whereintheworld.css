@@ -1,0 +1,46 @@
+
+h1{color:rgb(220, 69, 160);}
+h1 {font-family: 'Courier New', Courier, monospace; font-size: 60px;}
+h1{border: 5px rgb(220, 69, 160) dotted;}
+h1{padding: 10px;}
+h1{text-align:center;}
+
+body {
+  background-color: #DBF9FC;
+}
+h2 {font-family: 'Courier New', Courier, monospace; font-size: 25px;
+  color: rgb(220, 69, 160);
+  font-size: 45px;
+  text-align: center;
+}
+ body {
+   margin: 0;
+   font-family: 'Courier New', Courier, monospace;
+   color: grey;
+   font-size: 20px;
+   
+ }
+ 
+ .topnav {
+   overflow: hidden;
+   background-color: rgb(220, 69, 160);
+ }
+ 
+ .topnav a {
+   float: left;
+   color:whitesmoke;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 20px;
+ }
+ 
+ .topnav a:hover {
+   background-color:lightpink;
+   color: black;
+ }
+ 
+ .topnav a.active {
+   background-color:rgb(220, 69, 160;
+   color: white;
+ }
